@@ -1,3 +1,2 @@
 *.ipynb merge=ours
-.env merge=ours
 requirements.txt merge=ours
